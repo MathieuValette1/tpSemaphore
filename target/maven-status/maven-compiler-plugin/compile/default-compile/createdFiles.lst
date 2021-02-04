@@ -1,0 +1,7 @@
+com\mycompany\tpsemaphore\Producteur.class
+com\mycompany\tpsemaphore\Redacteur.class
+com\mycompany\tpsemaphore\RendezVous.class
+com\mycompany\tpsemaphore\monThread.class
+com\mycompany\tpsemaphore\JavaApplication.class
+com\mycompany\tpsemaphore\Consommateur.class
+com\mycompany\tpsemaphore\Lecteur.class
